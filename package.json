@@ -1,0 +1,18 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "description": "advanced backend for learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "ExpressJs"
+  ],
+  "author": "Karimov Muhammaddiyor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
